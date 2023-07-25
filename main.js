@@ -1,3 +1,4 @@
+console.log(require("./plants.js"));
 let find = require("./plants");
 let plants = [
   { id: 1, name: "Garden Rocket Arugula" },

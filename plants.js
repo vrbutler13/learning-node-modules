@@ -9,4 +9,4 @@ function findPlantById(plants, id) {
     return result;
   }
   
-  module.exports = findPlantById;
+  //module.exports = findPlantById;
